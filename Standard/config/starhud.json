@@ -191,7 +191,16 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "CHAT_HUD_OPENED",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
     },
     "color": 12050421,
     "additionalString": " FPS"
@@ -208,7 +217,16 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "CHAT_HUD_OPENED",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
     },
     "color": 11922135,
     "useDynamicColor": true,
@@ -324,7 +342,24 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "PLAYER_LIST_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        },
+        {
+          "condition": "BOSSBAR_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "SHOW",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 20
+        }
+      ]
     },
     "includeOrdinal": false,
     "directionColor": {
@@ -350,7 +385,16 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "CHAT_HUD_OPENED",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
     },
     "color": 10803425,
     "useDynamicColor": true,
@@ -370,7 +414,16 @@
         "displayMode": "BOTH",
         "drawBackground": true,
         "scale": 0.0,
-        "conditions": []
+        "conditions": [
+          {
+            "condition": "CHAT_HUD_OPENED",
+            "positionMode": "NONE",
+            "renderMode": "HIDE",
+            "additionalString": "",
+            "xOffset": 0,
+            "yOffset": 0
+          }
+        ]
       },
       "use12Hour": false,
       "color": 16777215
@@ -387,7 +440,24 @@
         "displayMode": "BOTH",
         "drawBackground": true,
         "scale": 0.0,
-        "conditions": []
+        "conditions": [
+          {
+            "condition": "PLAYER_LIST_SHOWN",
+            "positionMode": "NONE",
+            "renderMode": "HIDE",
+            "additionalString": "",
+            "xOffset": 0,
+            "yOffset": 0
+          },
+          {
+            "condition": "BOSSBAR_SHOWN",
+            "positionMode": "NONE",
+            "renderMode": "SHOW",
+            "additionalString": "",
+            "xOffset": 0,
+            "yOffset": 20
+          }
+        ]
       },
       "use12Hour": false,
       "color": {
@@ -427,7 +497,24 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "PLAYER_LIST_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        },
+        {
+          "condition": "BOSSBAR_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "SHOW",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 20
+        }
+      ]
     },
     "color": {
       "overworld": 16777215,
@@ -552,7 +639,24 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "PLAYER_LIST_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        },
+        {
+          "condition": "BOSSBAR_SHOWN",
+          "positionMode": "NONE",
+          "renderMode": "SHOW",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 20
+        }
+      ]
     },
     "modNameColor": 14543861,
     "targetedNameColor": 16777215,
@@ -576,7 +680,16 @@
       "displayMode": "BOTH",
       "drawBackground": true,
       "scale": 0.0,
-      "conditions": []
+      "conditions": [
+        {
+          "condition": "CHAT_HUD_OPENED",
+          "positionMode": "NONE",
+          "renderMode": "HIDE",
+          "additionalString": "",
+          "xOffset": 0,
+          "yOffset": 0
+        }
+      ]
     },
     "color": 11915496,
     "useFullSpeed": false,
